@@ -40,9 +40,11 @@ b. Сравнивает эти средние значения и выводит
 ## Реализация
 
 - Отчет о качестве кода (SonarLint)
+
 ![Отчет о качестве кода]([add_files/SonarLint Report.png](https://github.com/CuJlBepHoc/Unit_Test_HM6/blob/main/add_files/SonarLint%20Report.png))
 
 - Отчет о покрытии тестами
+
 ![Отчет о покрытии тестами]([add_files/Coverage report 1.png](https://github.com/CuJlBepHoc/Unit_Test_HM6/blob/main/add_files/Coverage%20report%201.png))
 
 ## Сценарии, покрытые тестами
