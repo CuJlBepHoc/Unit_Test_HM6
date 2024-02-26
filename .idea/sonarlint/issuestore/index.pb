@@ -1,0 +1,41 @@
+
+7
+main.py,f\1\f1bdda93d9a278e358509d498e17d97764c1fb29
+J
+venv/Average_comporator.py,f\f\ffc9568b346aeaaf8847f122514ea03219c71deb
+O
+test/test_Average_comporator.py,8\6\86d5ccf7a909062966683819ae48e5ce05d0e9c8
+E
+Average_comporator.py,5\8\587ac8415243aa34c79ff2659e50deaa09e5536b
+@
+test/__init__.py,7\a\7ac8b74ac3c1c5140ed772c822cc328b0793f984
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+E
+Average_comparator.py,d\6\d6831c422f34585b6dd0c7d74fa78600446e33df
+O
+test/test_Average_comparator.py,9\1\91e7e198b4051aad71be41fa90e724475f86170d
+B
+htmlcov/.gitignore,c\9\c99a9256a197278f86d63eb50f6ebab00715b9ba
+R
+"htmlcov/Average_comparator_py.html,2\c\2c2b2861e447794859222504ea166ed59dd67e27
+H
+htmlcov/coverage_html.js,e\6\e668f5d72435c1281ccb00cd9f0c90ffaf6f7ff0
+B
+htmlcov/index.html,7\f\7fbfaf5b961834621de8df2ce80982f6d3c260b5
+C
+htmlcov/status.json,7\3\735c971a429db22da913549790881fa42597827e
+A
+htmlcov/style.css,4\5\45ec8c70d41de0a55976987e7269cd9e4c0f9cb9
+9
+	.coverage,2\4\245d8ec80d138d8104c8f8338a3e2066fd7680d1
+M
+test/.pytest_cache/.gitignore,6\9\691273f3cbcac984ff725da89dfcdaa7ab4eb12e
+O
+test/.pytest_cache/CACHEDIR.TAG,d\5\d59a84e5d36f2cb6be7335bcffaa1609653769df
+L
+test/.pytest_cache/README.md,f\9\f96a8388ca4786052a8d317a672c347dee96ada3
+R
+"test/.pytest_cache/v/cache/nodeids,8\a\8a840fba0fc14fb8ec18fbe3b70ad5620a841e20
+S
+#test/.pytest_cache/v/cache/stepwise,f\4\f4b374436f258ef2d37e83f59e100eb580f5cffe
