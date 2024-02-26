@@ -40,10 +40,10 @@ b. Сравнивает эти средние значения и выводит
 ## Реализация
 
 - Отчет о качестве кода (Pylint/Checkstyle)
-  ![Отчет о качестве кода](add_files/SonarLint Report.png)
+- ![Отчет о качестве кода](add_files/SonarLint Report.png)
 
 - Отчет о покрытии тестами
-  ![Отчет о покрытии тестами](add_files/Coverage report 1.png)
+- ![Отчет о покрытии тестами](add_files/Coverage report 1.png)
 
 ## Сценарии, покрытые тестами
 
